@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kakasuarez&theme=vision-friendly-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/729566245434687520)](https://discord.com/users/729566245434687520)
